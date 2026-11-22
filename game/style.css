@@ -1,0 +1,29 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #07080d;
+  color: #cfd3e0;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+#stage {
+  width: 1280px;
+  margin: 0 auto;
+  padding: 12px 0 24px;
+}
+
+#game {
+  display: block;
+  width: 1280px;
+  height: 800px;
+  background: #0d0f1a;
+  border: 1px solid #2a2f45;
+  border-radius: 6px;
+}
+
+#hint {
+  margin: 10px 4px 0;
+  font-size: 13px;
+  line-height: 1.5;
+  color: #8b90a5;
+}
